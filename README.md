@@ -14,3 +14,4 @@ Today I Learned
 
     $ git push origin master
     
+    clone 수정!
